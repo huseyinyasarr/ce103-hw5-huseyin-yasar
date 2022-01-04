@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>ce103_hw5_snake_app</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ce103-hw5-snake-dll">
+      <HintPath>..\ce103-hw5-snake-dll\obj\Debug\net6.0\ce103-hw5-snake-dll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
