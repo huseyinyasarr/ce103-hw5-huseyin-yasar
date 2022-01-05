@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using ce103_hw5_alper_sahin;
+using ce103_hw5_huseyin_yasar;
 
 namespace ce103_hw5_snake_test
 {

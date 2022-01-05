@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.IO;
 
-namespace ce103_hw5_alper_sahin
+namespace ce103_hw5_huseyin_yasar
 {
     public class classs
     {
@@ -429,7 +429,7 @@ namespace ce103_hw5_alper_sahin
             }
 
             Console.SetCursorPosition(52, 23);
-            Console.Write("Coder: Alper SAHIN");
+            Console.Write("Coder: Huseyin YASAR");
 
             Console.SetCursorPosition(52, 24);
             Console.Write("Version: 0.5");
